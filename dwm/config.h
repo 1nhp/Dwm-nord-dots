@@ -5,7 +5,7 @@ static const unsigned int borderpx  = 3;
 static const unsigned int snap      = 32;       
 static const int showbar            = 1;        
 static const int topbar             = 1;     
-static const int gappx              = 18;   
+static const int gappx              = 0;   
 static const char *fonts[]          = { "arial:size=15", "Noto Color Emoji:size=15" };
 static const char dmenufont[]       = "arial:size=15";
 static const char col_gray1[]       = "#2e3440";
